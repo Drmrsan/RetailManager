@@ -1,1 +1,2 @@
 # RetailManager
+Retail manager application
